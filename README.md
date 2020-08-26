@@ -1,1 +1,7 @@
-# domain_driven_design_quickly_farsi_version
+<h1 dir="rtl">  کتاب domain_driven به زبان فارسی</h1>
+
+<div dir="rtl">
+
+##هدف 
+.ارتقاء دانش و کمک به فارسی زبانانی که مشتاقانه برنامه نویسی را دوست دارند
+</div>
